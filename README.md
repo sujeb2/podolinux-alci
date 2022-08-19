@@ -1,4 +1,4 @@
-# ALCI PURE ARCH
+# Podo Linux ALCI
 
 This iso attempts to be the purest of Arch Linxu installations.
 
