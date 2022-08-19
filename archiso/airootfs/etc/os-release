@@ -1,0 +1,11 @@
+NAME="Podo Linux"
+PRETTY_NAME="Podo Linux"
+ID=podo
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="http://podolinux.kro.kr/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://bugs.archlinux.org/"
+LOGO=archlinux-logo
+
